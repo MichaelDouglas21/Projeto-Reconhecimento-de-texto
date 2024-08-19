@@ -1,4 +1,4 @@
-# Projeto de Reconhecimento de Texto
+# Projeto de Reconhecimento de Texto em Imagem
 
 ## Descrição
 Este projeto realiza o reconhecimento de texto em imagens utilizando a Inteligencia Artificial ou sites gratuitos.
